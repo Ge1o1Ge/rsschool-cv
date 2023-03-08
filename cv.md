@@ -48,14 +48,12 @@ This code is solution of problem "1. Two Sum" on Leetcode
 
 * Have no complited courses yet
 
-* partly maded project online-zoo as practise
-    https://ge1o1ge.github.io/Online-zoo/
+* project [wildlife](https://ge1o1ge.github.io/Wildlife_verst/)
 
-* project wildlife as practise
-    https://ge1o1ge.github.io/Wildlife_verst/
+* partly maded project [online-zoo](https://ge1o1ge.github.io/Online-zoo/) as practise
 
-* practice in Leetcode (now have 50 solved problems in coding language python) 
-    https://leetcode.com/trajtv/
+* practice in Leetcode [my profile](https://leetcode.com/trajtv/)
+    (now have 51 solved problems in coding language python)
 
 *****
 ## Education
