@@ -19,8 +19,11 @@ I like to create something new and realise that Frontend developing gives this p
 
 *****
 ## Programing skills and Proficiency:
-
--in progress-
+* HTML5, CSS3
+* JavaScript Basics
+* Python
+* Figma, Pint Tool Sai
+* gulp, scss
 
 *****
 ## Code example:
@@ -59,5 +62,10 @@ This code is solution of problem "1. Two Sum" on Leetcode
 
 Emperor Alexander I St. Petersburg State Transport University
 profession civil engineer
+
+*****
+## Languages
+* Russian - native speaker
+* English - B1
 
 *****
